@@ -22,3 +22,18 @@ npm install @ionic/pwa-elements
 ```
 ionic serve
 ```
+
+
+- creacion carpeta pages
+  - arrastrar tabs
+
+
+creacion componentes
+
+```
+ionic g c components/heroes
+```
+
+```
+ionic g c components/heroe
+```
