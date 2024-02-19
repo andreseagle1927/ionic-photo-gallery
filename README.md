@@ -50,8 +50,18 @@ ionic g m components
 ```
 enrutamiento en archivo `app-routing.module.ts`
 
+creacion de carpeta de interfaces 
+
 - creacion carpeta assets
   -  poner imagenes de los heroes del drive
 - abrir archivo del drive , copiar texto de Clase4-Objectos y servicios
 - pegarlo en `herores-service-services.ts`
-- importar 
+
+- redes de cableado uk y europa
+https://121gigawatts.org/copper-sushi-power-flow-european-grid/
+
+
+- precios de casas around UK
+  https://ukhouseprice.project-ds.net
+
+OpenStreetMap MAPS FREE
